@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tutix/static/css/main.dc4d6ff2.css",
+    "main.js": "/tutix/static/js/main.35363aa6.js",
+    "static/js/453.445c1daf.chunk.js": "/tutix/static/js/453.445c1daf.chunk.js",
+    "index.html": "/tutix/index.html",
+    "main.dc4d6ff2.css.map": "/tutix/static/css/main.dc4d6ff2.css.map",
+    "main.35363aa6.js.map": "/tutix/static/js/main.35363aa6.js.map",
+    "453.445c1daf.chunk.js.map": "/tutix/static/js/453.445c1daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.35363aa6.js"
+  ]
+}
